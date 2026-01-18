@@ -280,8 +280,9 @@ L. Li, Z. You, and C. Ye (2026). hySAINT: Hybrid Genetic and Simulated Annealing
 ## Authors
 
 - **Leiyue Li** (Maintainer) - [lli289.git@gmail.com](mailto:lli289.git@gmail.com)
-- **Chenglong Ye** - [chenglong.ye@uky.edu](mailto:chenglong.ye@uky.edu)
 - **Zhengzhong You** -
+- **Chenglong Ye** - [chenglong.ye@uky.edu](mailto:chenglong.ye@uky.edu)
+
 
 ## License
 
