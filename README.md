@@ -7,7 +7,7 @@
 
 ## Overview
 
-`hySAINT` (Hybrid Simulated Annealing and Intelligent Selection) is an R package that provides a stage-wise selection method using genetic and simulated annealing algorithms to efficiently identify main effects and two-way interaction effects in high-dimensional linear regression models. The algorithm can enforce heredity constraints (Strong, Weak, or No heredity) and is particularly useful when the number of predictors is large relative to the sample size.
+`hySAINT` (Hybrid Simulated Annealing and Intelligent Selection) is an R package that provides a stage-wise selection method using genetic and simulated annealing algorithms to efficiently identify main effects and two-way interaction effects in high-dimensional linear regression models. The algorithm can enforce heredity constraints (Strong, Weak, or No heredity). This package is particularly useful when the number of predictors is large relative to the sample size, or when the true underlyign heredity condition is unknown, which is often the case for many real datasets. 
 
 ### Key Features
 
