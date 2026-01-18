@@ -316,4 +316,5 @@ result <- hySAINT(X, y, r1=5, r2=2, sigma=sigma, max.iter=50, numElite=20)
 
 ## Acknowledgments
 
-This work is based on the paper by Chenglong Ye and Yuhong Yang (2019) on high-dimensional variable selection with interaction effects.
+This work is based on the paper by Chenglong Ye and Yuhong Yang (2019) on high-dimensional variable selection with interaction effects. The relevant paper can be found at: Ye, C.,and Yang,Y. (2019) <doi:10.1109/TIT.2019.2913417>.
+License: GPL-2
